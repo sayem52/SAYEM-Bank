@@ -1,0 +1,57 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+
+}
+#transaction-page{
+    display: none;;
+}
+.common-DWB{
+    margin: 0 20px;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+
+}
+.balance{
+    background-color: orange;
+}
+
+#logout-area{
+
+    
+    text-align: center;
+    color: rgb(107, 106, 106);
+
+    margin-top: 250px;
+    display: none;
+
+}
+.Bc{
+    background-color: rgb(241, 252, 252);
+  
+}
+#logout{
+    margin-left: 520px;
+    margin-top: 120px;
+   
+}
+
+
+
+
+
+            
+        
+
